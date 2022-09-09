@@ -17,7 +17,7 @@ lw += 1;
 }
 else
 {
-putchar(lw)
+putchar(lw);
 lw += 1;
 }
 }
